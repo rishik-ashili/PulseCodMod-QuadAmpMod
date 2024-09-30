@@ -1,2 +1,3 @@
-# Digital_Communication_Assignment_EN509
-Simulating various types of signal modulation.
+# Code for Pluse Code Modulation and Quadrature Amplitude Modulation
+
+### PCM folder contains additional code dedicated for pcm .
